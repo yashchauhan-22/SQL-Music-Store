@@ -89,7 +89,7 @@ This project helped in strengthening practical SQL and data analysis skills by s
 
 ## Connect With Me
 
-LinkedIn:www.linkedin.com/in/yash-chauhan-y2213
+LinkedIn:www.linkedin.com/in/yashchauhan06
 
 
 
