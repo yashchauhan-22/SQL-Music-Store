@@ -85,11 +85,11 @@ This project helped in strengthening practical SQL and data analysis skills by s
 
 ## Author
 
-**Vansh Sirohi**
+**Yash Chauhan**
 
 ## Connect With Me
 
-LinkedIn:linkedin.com/in/vanshsirohi00
+LinkedIn:www.linkedin.com/in/yash-chauhan-y2213
 
 
 
